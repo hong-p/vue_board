@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"5d6d":function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("board-list")],1)},a=[],s=n("c22e"),c={components:{BoardList:s["a"]}},r=c,d=n("2877"),i=Object(d["a"])(r,o,a,!1,null,"64b4f4d1",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=about.abe2df1a.js.map

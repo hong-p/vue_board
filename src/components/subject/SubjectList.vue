@@ -3,7 +3,7 @@
     <div class="all">
       <ul id="subject-list">
         <li v-for="subject in subjects" :key="subject">
-          <a :href="'/vue_board/board?subject='+subject">{{ subject }}</a>
+          <a :href="'?subject='+subject">{{ subject }}</a>
         </li>
       </ul>
       <button @click="loadSubjects">조회</button>
