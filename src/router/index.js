@@ -11,7 +11,7 @@ const routes = [
     component: Home
   },
   {
-    path: '/board',
+    path: '/vue_board/board',
     name: 'Board',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
